@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-func main() {
-	fmt.Println("Hello, Fluttershy!")
-	fmt.Println("Hello, Rarity!")
-	fmt.Println("Hello, Applejack!")
+func PonyMessage() {
+	fmt.Println("This is Pony file")
 }
